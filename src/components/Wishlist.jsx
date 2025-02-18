@@ -62,7 +62,7 @@ export default function Wishlist() {
          <title>Wishlist</title>   
 </Helmet>
     
-      <div className='dark:bg-black dark:xsm:h-screen dark:lg:auto '>
+      <div className='dark:bg-black dark:xsm:h-screen dark:lg:h-auto xsm:h-screen '>
       <div className="shadow-lg  relative xsm:overflow-x-auto sm:rounded-lg  ">
       <h1 className='text-center text-green-color text-[2.5rem] font-semibold dark:bg-black my-5  animate-bounce'>Wish List <i class="fa-solid fa-heart text-green-color text-[2rem] "></i></h1>
 
